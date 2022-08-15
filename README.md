@@ -4,4 +4,4 @@
 ![](screenshot/screenshot_2.png)
 ![](screenshot/screenshot_3.png)
 
-https://build.envato.com/api
+Create a new token - https://build.envato.com/api
